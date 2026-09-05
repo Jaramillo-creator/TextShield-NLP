@@ -32,6 +32,12 @@ The project focuses on detecting unwanted or malicious spam messages by preproce
 
 ---
 
+## 🤝 Acknowledgments
+
+Special thanks to **Devtown** and trainer **Jiya Jain* for hosting the 5-Day "NLP with Python" Live Bootcamp in collaboration with **GDG** On Campus and **Microsoft** Learn Student Ambassadors.
+
+---
+
 ## 📂 Repository Structure
 
 ```text
